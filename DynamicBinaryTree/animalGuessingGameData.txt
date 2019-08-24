@@ -1,0 +1,16 @@
+Does this animal live on Land?
+Is this Animal big?
+Is this Animal big?
+Is this animal a mammal?
+Is this animal a insect?
+Is this animal a crustacean?
+Is this animal a fish?
+Is the animal a : bear?
+Is the animal a : Eagle?
+Is the animal a : ant?
+Is the animal a : rat?
+Is the animal a : crab?
+Is the animal a : whale?
+Is the animal a : salmon?
+Is the animal a : snail?
+
