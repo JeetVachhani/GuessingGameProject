@@ -1,3 +1,3 @@
 <h1 align="center">Name</h1>
 <p align="left"><strong>Description</strong>
-<br>Comment</p>
+<br>This guessing game is loosely inspired by https://en.akinator.com. The main purpose of this game is to ask you a series of questions and then guess the "animal" / species which you are thinking off. If the program guesses it incorrectly then the program will ask for the correct answer and a question which leads to this answer. Thus, the answer is then added to a textfile database and the game includes your answer. This program also contains a dynamic binary decision tree which continously grows as the more games that are played. Also every time the program is runned the database updates causing the next run to contain more information. The more that this game is played the larger and more accurate it becomes. </p>
