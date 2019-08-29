@@ -15,6 +15,7 @@
 - Dynamic Programming
 
 <h2>Installation</h2>
+<br> The program is written in java and consists of multiple files which must all be downlaoded. There is also a textfile database which can be downloaded also but if not, the program will automatically create the database for you.</p>
 
 
   
