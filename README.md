@@ -5,7 +5,7 @@
 <p align="left"><strong>Implementation Details</strong>
 <br>  The project contains a text file which serves as an data base and a dynamic binary decision tree which stores the information. Each spot on the tree consists of a node class which contains data and two references to other nodes. The data is stored in level-order line by line. If a node is missing, the line is simply left blank. When the initial tree is first built the data is read in level order and the tree is built recursively and the data is read iteratively. After each game the private method update() is called to store the data, while the class constructor makes the tree. </p>
 
-<h2>Key learnings</h2>
+<h2>Key Learnings</h2>
 
 - OOP  
 - Database storage and usage
@@ -14,8 +14,8 @@
 - Recusion
 - Dynamic Programming
 
-<h2>Installation</h2>
-<br> The program is written in java and consists of multiple files which must all be downlaoded. There is also a textfile database which can be downloaded also but if not, the program will automatically create the database for you.</p>
+<h2>Installation</h2> 
+The program is written in java and consists of multiple files which must all be downlaoded. There is also a textfile database which can be downloaded also but if not, the program will automatically create the database for you.</p>
 
 
   
